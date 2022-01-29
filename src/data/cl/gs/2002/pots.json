@@ -25,9 +25,9 @@
       "coefficient": 116.233
     },
     {
-      "name": "Valencia",
-      "country": "Spain",
-      "bertName": "Valencia",
+      "name": "PSG",
+      "country": "France",
+      "bertName": "PSG",
       "coefficient": 106.233
     },
     {
@@ -119,9 +119,9 @@
       "coefficient": 59.979
     },
     {
-      "name": "Spartak",
+      "name": "Zenit",
       "country": "Russia",
-      "bertName": "Spartak Moscow",
+      "bertName": "Zenit",
       "coefficient": 59.645
     },
     {
